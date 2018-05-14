@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="1" android:versionName="1.0" package="BusinessApp.Android">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <application android:label="BusinessApp.Android" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.MainApplication" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="AddressActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.AddressActivity" />
+    <activity android:label="AppointmentActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.AppointmentActivity" />
+    <activity android:label="AppointmentDetailsActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.AppointmentDetailsActivity" />
+    <activity android:label="CartActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.CartActivity" />
+    <activity android:label="ClientProfileActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.ClientProfileActivity" />
+    <activity android:label="DrawerListAdapter" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.DrawerListAdapter" />
+    <activity android:configChanges="orientation|screenSize" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.FilePickerActivity" />
+    <activity android:label="LoginActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.LoginActivity" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="BusinessApp" android:theme="@style/MainTheme" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="NotificationListActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.NotificationListActivity" />
+    <activity android:label="PaymentActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.PaymentActivity" />
+    <activity android:label="ProductDetailActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.ProductDetailActivity" />
+    <activity android:label="ProductListActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.ProductListActivity" />
+    <activity android:label="QuoteDetailActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.QuoteDetailActivity" />
+    <activity android:label="QuoteListActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.QuoteListActivity" />
+    <activity android:label="RegisterActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.RegisterActivity" />
+    <activity android:label="StockListActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.StockListActivity" />
+    <activity android:label="UserActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.UserActivity" />
+    <activity android:label="UserProfileActivity" android:name="md5ba4bf0bc7b858f40cf50dcdaa3d3ceb0.UserProfileActivity" />
+    <activity android:label="AccountActivity" android:name="md5a2fd2f4d7fd7fdfd6d5146b708dbd740.AccountActivity" />
+    <activity android:label="BillActivity" android:name="md5a2fd2f4d7fd7fdfd6d5146b708dbd740.BillActivity" />
+    <activity android:label="ClientListAdapter" android:name="md549fff89d9505fe582d2232be57de016a.ClientListAdapter" />
+    <activity android:label="NotificationListAdapter" android:name="md549fff89d9505fe582d2232be57de016a.NotificationListAdapter" />
+    <activity android:label="QuoteListAdapter" android:name="md549fff89d9505fe582d2232be57de016a.QuoteListAdapter" />
+    <activity android:label="Web Authenticator" android:name="md588920fb9403ed228b036d6919cddd329.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md588920fb9403ed228b036d6919cddd329.WebAuthenticatorActivity" />
+    <activity android:configChanges="orientation|screenSize" android:name="md520c46725dc61fcf80ec8b8957aac5201.FilePickerActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="BusinessApp.Android.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.BusinessApp.Android" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <meta-data android:name="android.support.VERSION" android:value="25.3.1" />
+</manifest>

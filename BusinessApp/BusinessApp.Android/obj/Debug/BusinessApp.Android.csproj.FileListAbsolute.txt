@@ -1,0 +1,465 @@
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.pdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.apk
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android-Signed.apk
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.pdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.pdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\bin\BusinessApp.Android.apk
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable\icon.png
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\res\values\styles.xml
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\R.cs.flag
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\uploadflags.txt
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\SQLite.Net.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\BusinessApp.Android.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\BusinessApp.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\gavin.ackerman.MAXXOR\documents\visual studio 2015\Projects\BusinessApp\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll.config
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.apk
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android-Signed.apk
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\ModernHttpClient.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Core.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Droid.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Localization.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\OkHttp.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\SQLite.Net.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.Droid.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Core.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Core.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Droid.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Droid.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.Droid.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.pdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\bin\BusinessApp.Android.apk
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\login.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\register.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\main.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable\icon.png
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\values\styles.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\R.cs.flag
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\uploadflags.txt
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\account.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\clientprofile.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\userprofile.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\userlist.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\productslist.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\orderslist.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\payment.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\address.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\quoteslist.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\productdetail.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\cart.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\bill.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\notificationlist.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\stocklist.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\orderdetail.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\appointment.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\appointmentdetails.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\quotedetail.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\clientlist.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\addorder.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\addquote.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\addproduct.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\burgermenu.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\BusinessApp.Android.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\BusinessApp.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\ModernHttpClient.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Binding.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Core.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Droid.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Localization.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Platform.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.FilePicker.Abstractions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.FilePicker.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.dll
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.xml
+C:\Users\gavin\Desktop\XamarinBase-master\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll.config
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.apk
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android-Signed.apk
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\ModernHttpClient.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Core.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Droid.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Localization.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\OkHttp.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\SQLite.Net.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\ModernHttpClient.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.Droid.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Core.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Core.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Droid.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Droid.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.Droid.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.FilePicker.Abstractions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.dll
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\BusinessApp.Android.pdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\bin\BusinessApp.Android.apk
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\login.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\register.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\main.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\account.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\clientprofile.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\userprofile.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\userlist.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\productslist.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\orderslist.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\payment.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\address.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\quoteslist.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\productdetail.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\cart.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\bill.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\notificationlist.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\stocklist.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\orderdetail.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\appointment.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\appointmentdetails.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\quotedetail.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\clientlist.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\addorder.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\addquote.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\addproduct.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable\icon.png
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\values\styles.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\res\layout\burgermenu.xml
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\R.cs.flag
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\uploadflags.txt
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\BusinessApp.Android.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Core.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\BusinessApp.Android.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\BusinessApp.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\ModernHttpClient.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Binding.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Binding.Droid.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Core.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Droid.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Localization.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Platform.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.FilePicker.Abstractions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.FilePicker.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\gavin\Documents\XamarinBase\BusinessApp\BusinessApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
